@@ -1,0 +1,1 @@
+{"threshold":20,"covered_count":0,"uncovered_count":0,"percent":100,"generatedAt":"Sun Dec 02 2018 15:09:02 GMT-0700 (Mountain Standard Time)","flowStatus":{"flowVersion":"0.51.1","errors":[],"passed":true},"files":{},"globIncludePatterns":["'src/**/*.js'","'src/**/*.jsx'"],"globExcludePatterns":["'src/test/**'"],"concurrentFiles":1}

@@ -1,0 +1,10 @@
+.Message {
+  width: 100%;
+  height: auto;
+  border: 1px solid midnightblue;
+  padding: 10px;
+  background-color: lightgoldenrodyellow;
+}
+
+.info { background-color: lightblue; }
+.error { background-color: darkred; }

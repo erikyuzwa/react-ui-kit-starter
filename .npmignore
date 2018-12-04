@@ -1,0 +1,18 @@
+
+yarn.lock
+package-lock.json
+.DS_Store
+npm-debug.log
+pom.xml
+rollup.config.js
+
+.idea/
+
+# ignore node stuff
+node_modules/
+
+# ignore source code
+src/
+
+.babelrc
+.eslintrc
